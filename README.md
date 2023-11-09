@@ -1,4 +1,4 @@
-![image](https://github.com/rizwanrayyan/MathServer/assets/121215820/7c5efa93-ad9b-4530-b3ae-bbdc11e4aae9)# Ex.05 Design a Website for Server Side Processing
+# Ex.05 Design a Website for Server Side Processing
 ## Date:
 
 ## AIM:
