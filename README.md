@@ -1,4 +1,4 @@
-# Ex.05 Design a Website for Server Side Processing
+![image](https://github.com/rizwanrayyan/MathServer/assets/121215820/7c5efa93-ad9b-4530-b3ae-bbdc11e4aae9)# Ex.05 Design a Website for Server Side Processing
 ## Date:
 
 ## AIM:
@@ -100,10 +100,13 @@ SURAFE AREA : <input type="text" name="area" value="{{area}}"></input>m<sup>2</s
 
 
 ## SERVER SIDE PROCESSING:
-![Alt text](<Screenshot 2023-11-09 093925.png>)
+![image](https://github.com/rizwanrayyan/MathServer/assets/121215820/1ca5f5c3-cc3e-45e9-9bf4-887674ee7e0f)
+
+
 
 ## HOMEPAGE:
-![Alt text](<Screenshot 2023-11-09 094416.png>)
+![image](https://github.com/rizwanrayyan/MathServer/assets/121215820/ac17b4d6-71d3-4141-8f8e-1855de3f57e2)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
